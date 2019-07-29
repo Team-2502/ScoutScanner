@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "78770710285",
+    "firebase_url": "https://offseasondds.firebaseio.com",
+    "project_id": "offseasondds",
+    "storage_bucket": "offseasondds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78770710285:android:afab2cb46f8e63f0",
+        "android_client_info": {
+          "package_name": "com.team2502.ScoutScanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb-MGrHFsE8GWvi-n3VVzJqHY9Hdoc6As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78770710285:android:e319fcefa868db11",
+        "android_client_info": {
+          "package_name": "com.team2502.androidviewer2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb-MGrHFsE8GWvi-n3VVzJqHY9Hdoc6As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78770710285:android:952fccc234a8ceeb",
+        "android_client_info": {
+          "package_name": "com.team2502.scout2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb-MGrHFsE8GWvi-n3VVzJqHY9Hdoc6As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

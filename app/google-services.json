@@ -1,92 +1,34 @@
 {
   "project_info": {
-    "project_number": "78770710285",
-    "firebase_url": "https://offseasondds.firebaseio.com",
-    "project_id": "offseasondds",
-    "storage_bucket": "offseasondds.appspot.com"
+    "project_number": "1009995197786",
+    "firebase_url": "https://emcc2019-fb7dd.firebaseio.com",
+    "project_id": "emcc2019-fb7dd",
+    "storage_bucket": "emcc2019-fb7dd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:78770710285:android:afab2cb46f8e63f0",
+        "mobilesdk_app_id": "1:1009995197786:android:929157953500cb7c005763",
         "android_client_info": {
           "package_name": "com.team2502.ScoutScanner"
         }
       },
       "oauth_client": [
         {
-          "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+          "client_id": "1009995197786-1bivkcipu9k975ta2pv37kqudok7p715.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBb-MGrHFsE8GWvi-n3VVzJqHY9Hdoc6As"
+          "current_key": "AIzaSyA-OLjQxDV69ZWHjhVKtScqOUfKIrhx--I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:78770710285:android:e319fcefa868db11",
-        "android_client_info": {
-          "package_name": "com.team2502.androidviewer2019"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBb-MGrHFsE8GWvi-n3VVzJqHY9Hdoc6As"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:78770710285:android:952fccc234a8ceeb",
-        "android_client_info": {
-          "package_name": "com.team2502.scout2019"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBb-MGrHFsE8GWvi-n3VVzJqHY9Hdoc6As"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "78770710285-2v1ju3ip667p7n3l19b1s0mqokaqfotk.apps.googleusercontent.com",
+              "client_id": "1009995197786-1bivkcipu9k975ta2pv37kqudok7p715.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

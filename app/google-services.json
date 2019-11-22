@@ -1,34 +1,92 @@
 {
   "project_info": {
-    "project_number": "444915423481",
-    "firebase_url": "https://mri2019.firebaseio.com",
-    "project_id": "mri2019",
-    "storage_bucket": "mri2019.appspot.com"
+    "project_number": "656125872308",
+    "firebase_url": "https://mmr-2019.firebaseio.com",
+    "project_id": "mmr-2019",
+    "storage_bucket": "mmr-2019.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:444915423481:android:1bf98836602232f59bea28",
+        "mobilesdk_app_id": "1:656125872308:android:16df5752fdeedbbbca6fe1",
         "android_client_info": {
           "package_name": "com.team2502.ScoutScanner"
         }
       },
       "oauth_client": [
         {
-          "client_id": "444915423481-h7kkt68nbopa5k74f01ob9ca7qhm22i5.apps.googleusercontent.com",
+          "client_id": "656125872308-0ia7169iiikemmqhjp06jsvvhrce3jpv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCOEx7fZvK2oZbhjzAnFEWfCzZz-K67rdE"
+          "current_key": "AIzaSyDxTlqdMMwScDOrHDyd1ozhpFOP-YCKpUc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "444915423481-h7kkt68nbopa5k74f01ob9ca7qhm22i5.apps.googleusercontent.com",
+              "client_id": "656125872308-0ia7169iiikemmqhjp06jsvvhrce3jpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656125872308:android:6854be6b77ae70a1ca6fe1",
+        "android_client_info": {
+          "package_name": "com.team2502.scout2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656125872308-0ia7169iiikemmqhjp06jsvvhrce3jpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxTlqdMMwScDOrHDyd1ozhpFOP-YCKpUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656125872308-0ia7169iiikemmqhjp06jsvvhrce3jpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656125872308:android:7856bb3f306e2a08ca6fe1",
+        "android_client_info": {
+          "package_name": "com.team2502.scoutscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656125872308-0ia7169iiikemmqhjp06jsvvhrce3jpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxTlqdMMwScDOrHDyd1ozhpFOP-YCKpUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656125872308-0ia7169iiikemmqhjp06jsvvhrce3jpv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -62,6 +62,9 @@ public class ScanQRActivity extends AppCompatActivity implements QRCodeReaderVie
         scannedTIMD = text;
         Log.e("TIMD", scannedTIMD);
 
+        Toast toast = Toast.makeText(getApplicationContext(), scannedTIMD, Toast.LENGTH_SHORT);
+        toast.show();
+
         // TIMD is probably valid
         if(checkScan(scannedTIMD)){
             FirebaseDatabase database = FirebaseDatabase.getInstance();
@@ -69,12 +72,12 @@ public class ScanQRActivity extends AppCompatActivity implements QRCodeReaderVie
 
             myRef.child("rawTIMDs").child(getTIMDName(scannedTIMD)).setValue(scannedTIMD);
 
-            Toast toast = Toast.makeText(getApplicationContext(), "Scanned Successfully!", Toast.LENGTH_SHORT);
-            toast.show();
+            //Toast toast = Toast.makeText(getApplicationContext(), "Scanned Successfully!", Toast.LENGTH_SHORT);
+            //toast.show();
         }
         else{
-            Toast toast = Toast.makeText(getApplicationContext(), "Scan Failed! Try Again.", Toast.LENGTH_SHORT);
-            toast.show();
+            //Toast toast = Toast.makeText(getApplicationContext(), "Scan Failed! Try Again.", Toast.LENGTH_SHORT);
+            //toast.show();
         }
 
         Intent intent = new Intent(this, MainActivity.class);
